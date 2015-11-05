@@ -1,0 +1,18 @@
+{
+  "name": "chalk-module",
+  "version": "1.0.0",
+  "description": "Chalk, colors, cli-color modülleri aslında aynı işe yarıyor. Terminalde verdiğiniz çıktıları renklendirip font'ları ile farkındalık yaratabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Cakiroglu <cakirogluarif@gmail.com> (http://www.arifcakiroglu.com)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejs-dersleri/chalk"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
